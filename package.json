@@ -1,0 +1,23 @@
+{
+  "name": "word",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "browser-sync start --no-notify -s -f '*.html, assets'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick-tsoukas/word-guess-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nick-tsoukas/word-guess-game/issues"
+  },
+  "homepage": "https://github.com/Nick-tsoukas/word-guess-game#readme",
+  "dependencies": {
+    "alphabet": "^1.0.0",
+    "uniq": "^1.0.1"
+  }
+}
