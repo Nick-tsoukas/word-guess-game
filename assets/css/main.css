@@ -10,3 +10,19 @@ section {
   justify-content: center;
   align-items: center;
 }
+
+
+header {
+  text-align: left;
+  background: red;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  padding-left:3em;
+}
+
+.guess_text {
+  float: left;
+  margin-right: 1em;
+  font-size: 1em !important;
+}
